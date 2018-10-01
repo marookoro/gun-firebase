@@ -1,0 +1,8 @@
+module.exports = {
+    localStorage: false,
+    gun-firebase: {
+       pw: 'some string',
+       user: 'some user'
+        
+    }
+};
